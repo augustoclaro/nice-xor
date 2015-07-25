@@ -20,9 +20,4 @@ var xor = {
   }
 };
 
-var chave = 'queijo';
-var crypt = xor.crypt('fernanda', chave);
-var decrypt = xor.decrypt(crypt, "chave");
-
-console.log(crypt);
-console.log(decrypt);
+module.exports = xor;

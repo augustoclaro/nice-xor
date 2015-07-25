@@ -45,7 +45,7 @@ Firts, we align both binaries, repeating the key characteres until it has the sa
 011110000110111101110010
 ```
 
-Repeat the key to align:
+Repeat the first 8 characteres of the key to align:
 
 ```sh
 01101110011010010110001101100101

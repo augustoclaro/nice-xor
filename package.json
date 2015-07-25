@@ -1,6 +1,6 @@
 {
   "name": "nice-xor",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A nice xor key encryption.",
   "main": "index.js",
   "scripts": {
